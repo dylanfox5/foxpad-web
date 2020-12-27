@@ -1,0 +1,18 @@
+/*
+ * Base structure
+ */
+#player {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  display: none;
+}
+
+#start {
+  display: none;
+}
+
+#start-content {
+  display: none;
+}

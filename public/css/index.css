@@ -1,0 +1,21 @@
+/*
+ * Base structure
+ */
+
+.background-img {
+  background-image: url("../img/macbook-background.jpg");
+  background-color: rgba(255, 255, 255, 0.6);
+  background-blend-mode: screen;
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  background-position: center center;
+  padding: 0;
+  margin: auto;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  margin: 0px auto 0px auto;
+}
